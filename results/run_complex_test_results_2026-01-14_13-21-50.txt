@@ -1,0 +1,27 @@
+==================================================
+AI DOCUMENTATION RESULTS - 2026-01-14_13-21-50
+==================================================
+
+[ Entity: timer_decorator (function) ]
+------------------------------
+AI Explanation:
+A decorator to print out how long it took to execute a function . This is useful when you want to run a function in a thread - safe way .
+------------------------------
+
+[ Entity: FinancialAnalyzer (class) ]
+------------------------------
+AI Explanation:
+A base class for the FinancialAnalyzer class . This is the main method of the class . It calculates the risk index based on the value of the asset in the market data .
+------------------------------
+
+[ Entity: FinancialAnalyzer.__init__ (method) ]
+------------------------------
+AI Explanation:
+Initializes the object with the given market data . The market data is expected to be a dictionary of key - value pairs where the key is the key and the value is the value of the value .
+------------------------------
+
+[ Entity: FinancialAnalyzer.calculate_risk_index (method) ]
+------------------------------
+AI Explanation:
+calculate_risk_index - This function calculates the risk index based on the risk score of all assets in self . market_data . If threshold is less than or equal to 0 it returns HIGH_RISK .
+------------------------------
